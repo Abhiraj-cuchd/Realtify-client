@@ -1,9 +1,10 @@
+import Navbar from "@/components/Navbar/Navbar";
 
 
 export default function Home() {
   return (
     <div className="layout">
-      <h1>Real Estate App</h1>
+      <Navbar />
     </div>
   );
 }
