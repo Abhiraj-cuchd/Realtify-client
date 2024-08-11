@@ -1,0 +1,12 @@
+{
+    "CodeGPT.apiKey": "CodeGPT Plus Beta",
+    "editor.fontFamily": "Jetbrains Mono",
+    "editor.fontSize": 15,
+    "editor.fontWeight": 400,
+    "editor.wordWrap": "bounded",
+    "editor.lineHeight": 2,
+    "editor.cursorStyle": "line-thin",
+    "editor.cursorBlinking": "expand",
+    "gitlens.currentLine.fontWeight": "325",
+    "gitlens.blame.fontWeight": "325"
+}
