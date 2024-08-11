@@ -1,11 +1,10 @@
-
-import styles from "@/styles/Home.module.css";
+import Navbar from "@/components/Navbar/Navbar";
 
 
 export default function Home() {
   return (
-    <>
-      <h1>Real Estate App</h1>
-    </>
+    <div className="layout">
+      <Navbar />
+    </div>
   );
 }
